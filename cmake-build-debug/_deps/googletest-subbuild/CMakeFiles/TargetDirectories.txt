@@ -1,0 +1,3 @@
+/Users/vladimirsimonov/CLionProjects/labwork5-closedcandies/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/vladimirsimonov/CLionProjects/labwork5-closedcandies/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/vladimirsimonov/CLionProjects/labwork5-closedcandies/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

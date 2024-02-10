@@ -1,0 +1,17 @@
+# ninja log v5
+432	450	1707536976090917000	lib/libsegment.a	4d5f29d8d141b12b
+486	506	1707536058565150000	lib/libarray.a	7c17b424fce3950c
+4	441	1707536458826553194	CMakeFiles/labwork5_closedcandies.dir/lib/segment.cpp.o	1034c53143b416e1
+1	287	1707537273862561412	build.ninja	a0185db224e5f45d
+4	428	1707536458805637425	CMakeFiles/labwork5_closedcandies.dir/lib/array.cpp.o	d2fb96ae21936016
+5	402	1707536171551116413	CMakeFiles/main.dir/lib/array.cpp.o	2e94b5a3f6905050
+3	432	1707536976068963525	lib/CMakeFiles/segment.dir/segment.cpp.o	77e32a3a5cf23343
+5	402	1707536171550968912	CMakeFiles/main.dir/lib/segment.cpp.o	7f6c52c893d47783
+5	486	1707536058538827351	lib/CMakeFiles/array.dir/array.cpp.o	823e042843114563
+4	432	1707536976068956150	bin/CMakeFiles/main.dir/main.cpp.o	d1413f9c62fef4b
+4	641	1707535638045631598	bin/CMakeFiles/labwork5_closedcandies.dir/main.cpp.o	2cd57bbda552fb8a
+5	473	1707536058523444631	CMakeFiles/main.dir/bin/main.cpp.o	99b0d9caf5536d91
+4	528	1707537297522454567	lib/CMakeFiles/array.dir/array.cpp.o	823e042843114563
+4	529	1707537297522455192	lib/CMakeFiles/segment.dir/segment.cpp.o	77e32a3a5cf23343
+529	548	1707537297547255000	lib/libsegment.a	4d5f29d8d141b12b
+528	548	1707537297547255000	lib/libarray.a	7c17b424fce3950c
